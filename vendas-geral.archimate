@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Vendas Geral" id="id-1048f9eb827d4c5a997a2c7cb125ea3e" version="5.0.0">
+  <folder name="Strategy" id="id-61842cc662334a4d93f95b0be78246f3" type="strategy"/>
+  <folder name="Business" id="id-69013313840c4326a85df1bfd201b2fd" type="business">
+    <folder name="Atores" id="id-a999cdca1e334a65b51b2b1c6c9606b1">
+      <folder name="Externo" id="id-bd2be6eb7172420ebff6f261340774e6">
+        <element xsi:type="archimate:BusinessActor" name="Cliente" id="id-4c25d35135484a2286bab4494c71a43a"/>
+        <element xsi:type="archimate:BusinessActor" name="Parceiro Comercial" id="id-205dde1ca12f4abd9a28f7a0e8f2991d"/>
+      </folder>
+      <folder name="Interno" id="id-0c572213c1db40c89cf824b7824eb53d">
+        <folder name="Financeiro" id="id-4bccc0d0aca5403da205ab8f81c3e849"/>
+        <folder name="Marketing" id="id-46f9a5d423114f1a844e7d3c74ca03bc"/>
+        <folder name="Diretoria" id="id-c90b832ed8a547dbb256021b30474388"/>
+      </folder>
+    </folder>
+    <folder name="Roles" id="id-b2a03a8fc5174ea0a962b6b0c4d83183"/>
+    <folder name="Process" id="id-7a6db1f321a74df6a2d5fd21ba10356f"/>
+  </folder>
+  <folder name="Application" id="id-a44f16e570204b9991f99444b0302b9a" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-db1f58e7c04a41b5be860d71c34e49d6" type="technology"/>
+  <folder name="Motivation" id="id-4d9bf8f2f1844c2ba1ffee30a9a55e87" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-4fb7b636ff204d37b0a7b8c2e31d4777" type="implementation_migration"/>
+  <folder name="Other" id="id-0d14a35afd944315bbd9b3eb49348e05" type="other"/>
+  <folder name="Relations" id="id-949c2f52e97940268c33b6d87aca56ba" type="relations"/>
+  <folder name="Views" id="id-1707f4a6536643bf90856f585466ab21" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-29b8836e51394495b243de014720367c"/>
+  </folder>
+</archimate:model>
